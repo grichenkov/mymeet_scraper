@@ -1,0 +1,14 @@
+venv/
+
+app/text/
+app/images/
+
+__pycache__/
+*.pyc
+
+.idea
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
